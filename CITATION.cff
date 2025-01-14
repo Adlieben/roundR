@@ -3,7 +3,7 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Maghout"
   given-names: "Adam"
-orcid: "https://orcid.org/0009-0002-5241-0856"
+  orcid: "https://orcid.org/0009-0002-5241-0856"
 title:"Adlieben/roundR: Version 0.2.0 - First release"
 doi: 10.5281/zenodo.14641299
 version: v0.2.0
