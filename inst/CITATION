@@ -1,0 +1,13 @@
+citHeader("To cite roundR in publications use:")
+
+citEntry(
+  entry    = "Manual",
+  title    = "Adlieben/roundR: Version 0.2.0 - First release",
+  author   = "Adam Maghout",
+  year     = "2025",
+  doi      = "10.5281/zenodo.14641299",
+  url      = "https://github.com/Adlieben/roundR",
+  textVersion = paste(
+"Maghout, A. (2025). Adlieben/roundR: Version 0.2.0 - First release (Version v0.2.0) [Computer software]. https://doi.org/10.5281/zenodo.14641299"
+  )
+)
